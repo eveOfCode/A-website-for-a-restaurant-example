@@ -4,8 +4,12 @@ This is a website that includes features and webpages that are usually on a webs
 
 ## Getting Started
 
-**Prerequisites**
+1. Clone the whole file into your computer
 
-None
+2. Open the file
+
+3. Open home_page.html
+
+4. Explore the website
 
 
