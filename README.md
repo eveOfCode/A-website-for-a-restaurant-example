@@ -4,7 +4,7 @@ This is a website that includes features and webpages that are usually on a webs
 
 ## Getting Started
 
-** Prerequisites **
+**Prerequisites**
 
 None
 
