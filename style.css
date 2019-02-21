@@ -1,0 +1,138 @@
+.navbar navbar-inverse {
+  background-color: black;
+  font-family: arial;
+  color: black;
+}
+
+img.menu_item1 {
+  float: right;
+  height: 50%;
+  width: 50%;
+  padding-left: 10px;
+}
+
+div.text_about_resto{
+  padding: 25px;
+}
+
+div.mapouter {
+  float:right;
+  text-align:right;
+  height:500px;
+  width:600px;
+  padding-top: 15px;
+}
+
+div.gmap_canvas {
+  overflow:hidden;
+  background:none!important;
+  height:500px;
+  width:600px;
+}
+
+div.footer_top {
+  padding-top:20px;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.left {
+  padding: 10px;
+	float: left;
+	margin-right: 30px;
+}
+
+.right{
+  padding: 10px;
+  margin-right: auto;
+}
+
+img.contact_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+h2.reserve {
+  padding-top: 50px;
+}
+
+div.drop_down_calendar {
+  padding-top: 35px;
+}
+
+div.input_time {
+  padding-top: 20px;
+}
+
+div.contact_details {
+  float: right;
+  padding-right: 250px;
+}
+
+div.space {
+  padding: 100px;
+}
+
+img.menu_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+div.main_menu_showing {
+  float: right;
+  margin-top: 15px;
+  margin-right: 150px;
+  padding-top: 15px;
+  padding-right: 70px;
+  padding-left: 150px;
+  border-style: solid;
+  padding-bottom: 15px;
+}
+
+div.meal_type {
+  text-align:left;
+}
+
+p.meal_type {
+  color: red;
+}
+
+a.menus {
+  color: black;
+}
+
+ul.menu_items {
+  list-style-type:none;
+}
+
+ul.different_menus {
+  list-style-type:none;
+}
+
+div.menu_showing {
+  padding-top: 20px;
+  margin-left: 600px;
+  margin-top: 50px;
+}
+
+li {
+  padding: 10px;
+}
+
+#gmap_canvas {
+  width: 600px;
+  height: 500px;
+  border: none;
+  overflow:hidden;
+  margin-top:inherit;
+  margin-bottom:inherit;
+
+}
